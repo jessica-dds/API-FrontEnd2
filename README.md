@@ -1,6 +1,6 @@
+![Captura de tela 2024-10-07 105213](https://github.com/user-attachments/assets/186932b1-2e1a-454f-a43c-ec243899f395)
+
 Desenvolvido durante o curso Full Stack da Cubos Academy.
-
-
 Documentação da API para Integração
 URL da API
     https://api-crud-user.pedagogico.cubos.academy
